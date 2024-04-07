@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DemoUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f31721da7c759224590043796f9c3230, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2b768dd1b3bce2f469ae70cd0c0cd275, type: 3}
+  - {fileID: 21300000, guid: 77b4af13724bc8b41943b6582076220b, type: 3}
+  - {fileID: 21300000, guid: fa91e56407b823840af7dfc336f13307, type: 3}
+  - {fileID: 21300000, guid: 7740a4c5b75ae2f43acc78a29497fa8f, type: 3}
+  - {fileID: 4027337190473989881, guid: 1465863abd540f140bce5da560f6dfdc, type: 3}
+  - {fileID: 7063423225591798806, guid: 1465863abd540f140bce5da560f6dfdc, type: 3}
+  - {fileID: 4015801862281264469, guid: 1465863abd540f140bce5da560f6dfdc, type: 3}
+  - {fileID: -1706889053364343209, guid: 1465863abd540f140bce5da560f6dfdc, type: 3}
+  - {fileID: 21300000, guid: 7e93abbdfe172634cb8b063b5d0f0b88, type: 3}
+  - {fileID: 21300000, guid: 334a7d9e011fa254fb7206c9e5f6ad11, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - avatarSample
+  - noavatar
+  - bgElement2
+  - sample-logo
+  - logoElement1_2
+  - logoElement1_3
+  - logoElement1_0
+  - logoElement1_1
+  - bgElement
+  - logoBG
+  m_Tag: DemoUI
+  m_IsVariant: 0

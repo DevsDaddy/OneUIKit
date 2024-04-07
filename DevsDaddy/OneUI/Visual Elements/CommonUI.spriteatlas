@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CommonUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 38a33387fc8466a4a831c154315994e7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9b7c624013aeb8e4eb4e62331e1bcec5, type: 3}
+  - {fileID: 21300000, guid: 4a1d57803d28f4442a85cfeaca45374d, type: 3}
+  - {fileID: 21300000, guid: a8f50ac3a49bd174abd5fa64fc4b9147, type: 3}
+  - {fileID: 21300000, guid: 5a90a29a6f0f8a343bbf0d049ad0fb50, type: 3}
+  - {fileID: 21300000, guid: 253375cbc1a675e45b7e32937b9e78ba, type: 3}
+  - {fileID: 21300000, guid: 3b7ae70cb18fb9c45b40bd1f2c3722b5, type: 3}
+  - {fileID: 21300000, guid: 3c5b351cf68a8c6478b7019689f3f50d, type: 3}
+  - {fileID: 21300000, guid: 0e812b1cfb36b7f479cf7c0e0b0bb622, type: 3}
+  - {fileID: 21300000, guid: 5c725d7d1dd91cf49993e47b0ff25186, type: 3}
+  - {fileID: 21300000, guid: 80b700bd5367e7f4dbeb83d77247c367, type: 3}
+  - {fileID: 21300000, guid: 9ce1cf6f8f46ca44fb61c8ced328ba68, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spinner
+  - scrollElementHorizontal
+  - roundedBlock
+  - roundedBtn
+  - circle64
+  - modal
+  - imageContainer
+  - circle128
+  - shadow1
+  - scrollElementVertical
+  - backdrop
+  m_Tag: CommonUI
+  m_IsVariant: 0
